@@ -17,9 +17,7 @@ def gen_data():
     'Maryland (24)', 'North Carolina (37)', 'South Carolina (45)', 'Virginia (51)',\
     'West Virginia (54)', 'Alabama (01)', 'Kentucky (21)', 'Mississippi (28)', 'Tennessee (47)', \
     'Arkansas (05)', 'Louisiana (22)', 'Oklahoma (40)', 'Texas (48)'], \
-    'West': ['Alaska (02)', 'California (06)', 'Hawaii (15)', 'Oregon (41)', 'Washington (53)', \
-    'Arizona (04)', 'Colorado (08)', 'Idaho (16)', 'New Mexico	(35)', 'Montana', 'Utah', 'Nevada', \
-    'Wyoming']}
+    'West': ['Alaska (02)', 'California (06)', 'Hawaii (15)', 'Oregon (41)', 'Washington (53)']}
 
     crosswalk_region = ['region']
     crosswalk_state = ['state']

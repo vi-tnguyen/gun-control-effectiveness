@@ -1,21 +1,4 @@
 state,region
-Alaska,West
-California,West
-Hawaii,West
-Oregon,West
-Washington,West
-Iowa,Midwest
-Nebraska,Midwest
-Kansas,Midwest
-North Dakota,Midwest
-Minnesota,Midwest
-South Dakota,Midwest
-Missouri,Midwest
-Indiana,Midwest
-Illinois,Midwest
-Michigan,Midwest
-Ohio,Midwest
-Wisconsin,Midwest
 Connecticut,Northeast
 Maine,Northeast
 Massachusetts,Northeast
@@ -25,6 +8,19 @@ Vermont,Northeast
 New Jersey,Northeast
 New York,Northeast
 Pennsylvania,Northeast
+Alaska,West
+California,West
+Hawaii,West
+Oregon,West
+Washington,West
+Arizona ,West
+Colorado,West
+Idaho,West
+New Mexico,West
+Montana,West
+Utah,West
+Nevada,West
+Wyoming,West
 Delaware,South
 District of Columbia,South
 Florida,South
@@ -42,3 +38,15 @@ Arkansas,South
 Louisiana,South
 Oklahoma,South
 Texas,South
+Iowa,Midwest
+Nebraska,Midwest
+Kansas,Midwest
+North Dakota,Midwest
+Minnesota,Midwest
+South Dakota,Midwest
+Missouri,Midwest
+Indiana,Midwest
+Illinois,Midwest
+Michigan,Midwest
+Ohio,Midwest
+Wisconsin,Midwest
